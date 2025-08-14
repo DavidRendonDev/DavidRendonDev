@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Mi gráfico de contribuciones en modo Pac-Man
+- ⚡ Fun fact:...
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[DavidRendonDev]/[DavidRendonDev]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[DavidRendonDev]/[DavidRendonDev]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[DavidRendonDev]/[DavidRendonDev]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidRendonDev/DavidRendonDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidRendonDev/DavidRendonDev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DavidRendonDev/DavidRendonDev/output/pacman-contribution-graph.svg">
 </picture>
+
 
 _Generado con [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)._
